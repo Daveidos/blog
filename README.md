@@ -1,6 +1,6 @@
 # Blog website
 
-Saite galvena doma ir raksti. Cilvekiem bus iespeja rakstit un lasit rakstus ar vajadzigo viniem informaciju. 
+Saite galvena doma ir raksti. Cilvekiem bus iespeja rakstit un lasit rakstus ar vajadzigo viniem informaciju. Bus dažadas cilnes ar dažadiem temam. Katrs lietotajs var izmantot filtru, lai kartot visus rakstus vai pec temu, vai pec popularitati, vai pec atsleg vardiem.
 
 Bus tris kontas veidi:
 
